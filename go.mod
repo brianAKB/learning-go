@@ -1,4 +1,4 @@
-module demo
+module github.com/brianAKB/learning-go
 
 go 1.18
 
